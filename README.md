@@ -1,2 +1,2 @@
 # showcase-Web-Development
-HTML, CSS and JavaScript Portfolio
+HTML, CSS, PHO and JavaScript Combined Portfolio
